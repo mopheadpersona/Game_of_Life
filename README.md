@@ -9,3 +9,8 @@ terminal interfaces).
 - pressing `x` changes the cell under the cursor
 - pressing `c` clear world state
 - pressing Space moves the cellular automaton one step forward
+
+## To run:
+
+- `cd conways`
+- `cabal run`
