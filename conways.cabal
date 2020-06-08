@@ -9,9 +9,9 @@ version:             0.1.0.0
 -- bug-reports:
 -- license:
 license-file:        LICENSE
--- author:
--- maintainer:
--- copyright:
+author:              Dmitrii Nazarenko
+maintainer:          deemaneken@gmail.com
+copyright:           2020 Dmitrii Nazarenko
 -- category:
 build-type:          Simple
 extra-source-files:  CHANGELOG.md
